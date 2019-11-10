@@ -6,3 +6,4 @@ until levitation_force == 10
 end
 
 end
+print using_until
